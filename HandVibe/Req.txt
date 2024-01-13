@@ -1,0 +1,9 @@
+pip install opencv-contrib-python
+pip install caer
+pip install mediapipe
+pip install numpy
+pip install pycaw
+pip install https://github.com/AndreMiras/pycaw/archive/develop.zip
+choco install visualcpp-build-tools
+pip install tensorflow
+pip install screen-brightness-control
